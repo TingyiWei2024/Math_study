@@ -1,19 +1,6 @@
-非常好 ✅ 舰桥为你整理了一个 **最终版 `README.md`**，
-保证在 **GitHub 页面上完美渲染**（目录树不塌陷、表格不偏移、徽章可直接更新）。
-你可以直接复制全文覆盖本地的 `README.md`。
-
----
-
-````markdown
 # 🧮 Math Study Bridge
 
 > Structured notes for mastering **Calculus, Linear Algebra, and Probability** — foundations of modeling & AI.
-
----
-
-![Calculus](https://img.shields.io/badge/Calculus-Day_2_ongoing-blue?style=flat-square)
-![Linear_Algebra](https://img.shields.io/badge/Linear_Algebra-pending-lightgrey?style=flat-square)
-![Probability_Statistics](https://img.shields.io/badge/Probability_&_Statistics-pending-lightgrey?style=flat-square)
 
 ---
 
@@ -21,7 +8,7 @@
 
 | Module | Progress | Next Target |
 |---------|-----------|--------------|
-| 🧮 Calculus | ![Progress](https://img.shields.io/badge/Day_2_ongoing-blue?style=flat-square) | Derivatives |
+| 🧮 Calculus | ![Progress](https://img.shields.io/badge/Day_1_Started-blue?style=flat-square) | Derivatives |
 | 📊 Linear Algebra | ![Progress](https://img.shields.io/badge/Not_started-lightgrey?style=flat-square) | Vectors |
 | 🎲 Probability & Statistics | ![Progress](https://img.shields.io/badge/Not_started-lightgrey?style=flat-square) | Distributions |
 
