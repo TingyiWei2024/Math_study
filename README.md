@@ -13,20 +13,21 @@
 | 🎲 Probability & Statistics | ![Progress](https://img.shields.io/badge/Not_started-lightgrey?style=flat-square) | Distributions |
 
 ---
-
 ## 📁 Repository Structure
 
+```plaintext
 Math_study/
-├── Calculus/
-│ ├── Calculus_Day1_Limits.ipynb
-│ ├── Calculus_Day2_Derivatives.ipynb
-│ └── ...
-├── Linear_Algebra/
-│ └── ...
-├── Probability/
-│ └── ...
-├── README.md
-└── .gitignore
+ ├── Calculus/
+ │    ├── Calculus_Day1_Limits.ipynb
+ │    ├── Calculus_Day2_Derivatives.ipynb
+ │    └── ...
+ ├── Linear_Algebra/
+ │    └── ...
+ ├── Probability/
+ │    └── ...
+ ├── README.md
+ └── .gitignore
+
 
 ---
 
