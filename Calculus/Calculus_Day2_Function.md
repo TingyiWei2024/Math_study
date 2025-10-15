@@ -82,7 +82,7 @@ If not → discontinuity (a “hole” or “jump”).
 
 ---
 
-## 🌍 Big Picture (Kirk’s Insight)
+## 🌍 Big Picture 
 
 > “Every ML model is a piecewise function in disguise.”
 
@@ -103,7 +103,7 @@ Objective: Understand what it means for a function to “connect smoothly.”
 
 ---
 
-### 🪐 Ship Crew Remarks
+### 🪐 Remarks
 
 “Causality verified. Functional mapping stable.”  
 “Rules before graphs — always.”  
