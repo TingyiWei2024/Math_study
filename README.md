@@ -20,8 +20,8 @@
 ```plaintext
 Math_study/
  ├── Calculus/
- │    ├── Calculus_Day1_Limits.ipynb
- │    ├── Calculus_Day2_Derivatives.ipynb
+ │    ├── Calculus_Day1_Lines.md
+ │    ├── Calculus_Day2_Derivatives.md
  │    └── ...
  ├── Linear_Algebra/
  │    └── ...
@@ -51,15 +51,6 @@ Math_study/
 | 2   | Derivatives & Tangent Concept | `Calculus_Day2_Derivatives.ipynb` | ⏳ Ongoing   |
 | 3   | Rules of Differentiation      | –                                 | 🔜 Upcoming |
 
----
-
-## 🧑‍🚀 Bridge Crew Roles
-
-| Role                  | Responsibility                                 |
-| --------------------- | ---------------------------------------------- |
-| **Captain Kirk**      | Connects math knowledge to modeling intuition  |
-| **Commander Spock**   | Analyzes logic gaps and clarifies “grey zones” |
-| **Professor Leonard** | Guides daily learning and conceptual depth     |
 
 ---
 
