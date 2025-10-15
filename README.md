@@ -8,9 +8,10 @@
 
 | Module | Progress | Next Target |
 |---------|-----------|--------------|
-| 🧮 Calculus | ![Progress](https://img.shields.io/badge/Day_1_Started-blue?style=flat-square) | Derivatives |
+| 🧮 Calculus | ![Progress](https://img.shields.io/badge/Day_1_Completed-green?style=flat-square) | Derivatives |
 | 📊 Linear Algebra | ![Progress](https://img.shields.io/badge/Not_started-lightgrey?style=flat-square) | Vectors |
 | 🎲 Probability & Statistics | ![Progress](https://img.shields.io/badge/Not_started-lightgrey?style=flat-square) | Distributions |
+
 
 ---
 
@@ -46,7 +47,7 @@ Math_study/
 
 | Day | Topic                         | Notebook                          | Status      |
 | --- | ----------------------------- | --------------------------------- | ----------- |
-| 1   | Introduction & Limits         | `Calculus_Day1_Limits.ipynb`      | ✅ Completed |
+| 1   | Lines, Angle of Inclination & Distance Formula        | `Calculus_Day1_Lines_Angle_Distance.md`      | ✅ Completed |
 | 2   | Derivatives & Tangent Concept | `Calculus_Day2_Derivatives.ipynb` | ⏳ Ongoing   |
 | 3   | Rules of Differentiation      | –                                 | 🔜 Upcoming |
 
