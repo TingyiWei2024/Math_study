@@ -8,7 +8,7 @@
 
 | Module | Progress | Next Target |
 |---------|-----------|--------------|
-| 🧮 Calculus | ![Progress](https://img.shields.io/badge/Day_2_Completed-green?style=flat-square) | Derivatives & Tangent Concept |
+| 🧮 Calculus | ![Progress](https://img.shields.io/badge/Day_3_Completed-green?style=flat-square) | Rules of Differentiation |
 | 📊 Linear Algebra | ![Progress](https://img.shields.io/badge/Not_started-lightgrey?style=flat-square) | Vectors |
 | 🎲 Probability & Statistics | ![Progress](https://img.shields.io/badge/Not_started-lightgrey?style=flat-square) | Distributions |
 
@@ -48,8 +48,9 @@ Math_study/
 |-----|--------|-----------|--------|
 | 1 | Lines & Angle  | `Calculus_Day1_Lines.md` | ✅ Completed |
 | 2 | Functions & Trigonometry | `Calculus_Day2.md ✖️ 3` | ✅ Completed |
-| 3 | Derivatives & Tangent Concept | `Calculus_Day3_Derivatives.ipynb` | 🔜 Upcoming |
-| 4 | Rules of Differentiation | – | 🔜 Upcoming |
+| 3 | Limits: Concept & Evaluating Limits  | `Calculus_Day3_Limit.md` | ✅ Completed |
+| 4 | Derivatives & Tangent Concept | `Calculus_Day4_Derivatives_Tangent.ipynb` | 🔜 Upcoming |
+| 5 | Rules of Differentiation | – | 🔜 Upcoming |
 
 ---
 
@@ -66,6 +67,8 @@ Math_study/
 > *“Mathematics is the language in which the universe is written.”* — Galileo Galilei
 
 > *“Functions connect quantities; understanding how they compose is the first step to connecting ideas.”*
+
+> *"A limit is not about reaching the point, but about understanding what happens infinitely close to it.”*
 
 ---
 

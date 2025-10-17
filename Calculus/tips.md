@@ -17,3 +17,9 @@ B：控制“左右”；
 8. sin 是奇函数、cos 是偶函数、tan 是奇函数
 9. 在模型中：A：相当于输出强度（幅值）；B：相当于频率调节（节奏）；C：相当于相位偏移（时序延迟）。这正是信号处理、傅里叶分析与周期神经网络的核心概念。
 10. f(g(x))和g(f(x))不相等 嵌套逻辑不一样->NN的逻辑
+
+10.16
+1. 求导和积分在坐标系图里的含义
+2. Logically, the tangent slope is the limit of the secant slope as the two points merge.
+3. So calculus is the science of approach, not arrival.
+4. no single limit value
